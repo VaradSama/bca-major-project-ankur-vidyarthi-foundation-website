@@ -1,2 +1,27 @@
-# bca-major-project-ankur-vidyarthi-foundation-website
-Scholarship management portal developed for Ankur Vidyarthi Foundation where students can apply for scholarships and administrators can manage applications.
+# Ankur Vidyarthi Foundation Scholarship Portal
+
+This project is a web-based scholarship management system developed for Ankur Vidyarthi Foundation as part of the BCA Major Project.
+
+## Project Description
+
+The system allows students to apply for scholarships provided by the NGO and helps administrators manage scholarship applications efficiently. It simplifies the process of collecting student details, reviewing applications, and maintaining scholarship records.
+
+## Features
+
+- Student registration and login
+- Scholarship application form
+- Upload student details and documents
+- Admin panel to manage applications
+- View and manage student records
+- Database storage for applications
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- XAMPP / Localhost server
+
+## Project Structure
